@@ -1,0 +1,36 @@
+
+.card{
+    background-color: rgb(220, 115, 164);
+    padding: 10px;
+    margin: 10px auto;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border: 1px solid rgba(0,0,0,0.1);
+    text-decoration: none;
+    color: black;
+    justify-content: center;
+}
+
+
+.title{
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.product-content{
+    font-size: 14px;
+    margin:0 ;
+    padding: 0;
+}
+
+.product-img{
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 25px;
+    margin-right: 10px;
+}

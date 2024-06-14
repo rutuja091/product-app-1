@@ -1,0 +1,10 @@
+.heading{
+   justify-content: center;
+   text-align: center;
+}
+.blogs-container{
+   display: flex; 
+   justify-content: space-around;
+   flex-wrap: wrap;
+   background-color: white;
+}
